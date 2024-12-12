@@ -1,7 +1,6 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:parallax/import_image_dialog.dart';
 import 'package:parallax/store.dart';
 import 'package:parallax/parallax_image.dart';
